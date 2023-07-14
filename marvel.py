@@ -7,8 +7,8 @@ from app.views import chars_page
 
 menu_items = {
     "About": "A sample app featuring content from Marvel",
-    "Get Help": "https://github.com/ehom",
-    "Report a bug": "https://github.com/ehom"
+    "Get Help": "https://github.com/ehom/marvel-browser/README.md",
+    "Report a bug": "https://github.com/ehom/marvel-browser/issues"
 }
 
 

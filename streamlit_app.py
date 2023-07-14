@@ -13,8 +13,10 @@ menu_items = {
 
 
 def main(): 
+    superhero = "\U0001F9B8"
+
     st.set_page_config(page_title="Marvel Browser",
-                       page_icon="\u24c2", menu_items=menu_items)
+                       page_icon=superhero, menu_items=menu_items)
 
     with st.sidebar:
         st.header("Marvel Browser")

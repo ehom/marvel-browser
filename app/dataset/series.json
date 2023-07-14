@@ -1,0 +1,2938 @@
+[
+    {
+        "id": 18454,
+        "title": "100th Anniversary Special (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/5d939e25a9787.jpg"
+    },
+    {
+        "id": 13379,
+        "title": "15 Love (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51644d6b47668.jpg"
+    },
+    {
+        "id": 489,
+        "title": "1602 (2003 - 2004)",
+        "description": "Award-winning writer Neil Gaiman teams with artist Andy Kubert to re-imagine the Marvel Universe in the year 1602! It's Spider-Man, the X-Men, Nick Fury, Doctor Strange, Daredevil and more as you'd never think to imagine them in an utterly unique and thrilling tale of high adventure!",
+        "startYear": 2003,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/51926fde9c18a.jpg"
+    },
+    {
+        "id": 19244,
+        "title": "1602 Witch Hunter Angela (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/553a60a66f2f6.jpg"
+    },
+    {
+        "id": 19501,
+        "title": "1872 (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/553a60e7ab48d.jpg"
+    },
+    {
+        "id": 7520,
+        "title": "1939 Daily Bugle (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/d0/4bb4eafadecaf.jpg"
+    },
+    {
+        "id": 29693,
+        "title": "2020 Force Works (2020)",
+        "description": null,
+        "startYear": 2020,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/5f5fc799434fe.jpg"
+    },
+    {
+        "id": 29694,
+        "title": "2020 Ironheart (2020)",
+        "description": null,
+        "startYear": 2020,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/30/5f5fc6f0df496.jpg"
+    },
+    {
+        "id": 29697,
+        "title": "2020 iWolverine (2020)",
+        "description": "In the wake of Arno Stark\u2019s crusade against A.I.s, no robot is safe. Fearing of Elsie Dee\u2019s safety in these tumultuous times, Albert, the robot Wolverine, goes to Madripoor to find her\u2026but what he finds is a fight against Madripoor\u2019s criminal underbelly instead! ",
+        "startYear": 2020,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5f4037d30efa5.jpg"
+    },
+    {
+        "id": 29695,
+        "title": "2020 Machine Man (2020)",
+        "description": "The A.I. uprising has begun, and Machine Man finds himself torn about his place in the revolution! As the battle rages around him, will Machine Man aid mankind\u2019s fight for survival or join his robot brethren in ushering a new age? Plus, when faced with a figure from his past, Machine Man must decide\u2014is it time to follow his programming or his heart? Don\u2019t miss out on this epic adventure from Christos Gage and Andy MacDonald! Plus, revisit Machine Man in 2020 with legendary creator, Tom DeFalco! ",
+        "startYear": 2020,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/5f5bef0fafd3e.jpg"
+    },
+    {
+        "id": 29696,
+        "title": "2020 Rescue (2020)",
+        "description": "Pepper Potts moved on from Tony Stark. She\u2019s getting her life together, finding her place in the world. Unfortunately, that\u2019s exactly when Tony Stark decides it\u2019s time for a full-tilt, full-blown meltdown. And if Pepper can\u2019t suit up and save the day, Tony is toast. ",
+        "startYear": 2020,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5e558a8495066.jpg"
+    },
+    {
+        "id": 20018,
+        "title": "2099 Unlimited (1993 - 1994)",
+        "description": null,
+        "startYear": 1993,
+        "endYear": 1994,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/57e448f5d8a2f.jpg"
+    },
+    {
+        "id": 725,
+        "title": "4 (2004 - 2006)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc69d6c705cb.jpg"
+    },
+    {
+        "id": 1251,
+        "title": "4 Vol. 1: Wolf at the Door (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc69d6c705cb.jpg"
+    },
+    {
+        "id": 1253,
+        "title": "4 Vol. 2: The Stuff of Nightmares (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc6570d18f3c.jpg"
+    },
+    {
+        "id": 1423,
+        "title": "4 Vol. 3: Divine Time (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc654a09a5be.jpg"
+    },
+    {
+        "id": 12429,
+        "title": "5 Ronin (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/598e2ab495a36.jpg"
+    },
+    {
+        "id": 7082,
+        "title": "70th Anniversary Alan Davis Poster (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4bb579f597e57.jpg"
+    },
+    {
+        "id": 21114,
+        "title": "A Year of Marvels: August Infinite Comic (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/57a9fa4c04d95.jpg"
+    },
+    {
+        "id": 21113,
+        "title": "A Year of Marvels: July Infinite Comic (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/576d5e944c71b.jpg"
+    },
+    {
+        "id": 21112,
+        "title": "A Year of Marvels: June Infinite Comic (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/575b3b86d5328.jpg"
+    },
+    {
+        "id": 21115,
+        "title": "A Year of Marvels: September Infinite Comic (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/57c99a120a3ea.jpg"
+    },
+    {
+        "id": 21404,
+        "title": "A Year of Marvels: The Uncanny (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5d9359aba7c26.jpg"
+    },
+    {
+        "id": 16450,
+        "title": "A+X (2012 - 2014)",
+        "description": "Get ready for action-packed stories featuring team-ups from your favorite Marvel heroes every month! First, a story where Wolverine and Hulk come together, and then Captain America and Cable meet up! But will each partner's combined strength be enough?",
+        "startYear": 2012,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/511e88a20ae34.jpg"
+    },
+    {
+        "id": 17233,
+        "title": "A-Babies Vs. X-Babies (2012)",
+        "description": null,
+        "startYear": 2012,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/54aed1e6f101b.jpg"
+    },
+    {
+        "id": 20606,
+        "title": "A-Force (2016)",
+        "description": "A-Force, Assemble! From the ashes of Battleworld, Marvel\u2019s newest hero Singularity has risen and entered the Marvel Universe. But she didn\u2019t make the journey alone. To combat the most fearsome threats from across the multiverse, Singularity will summon the world\u2019s mightiest team of Avengers to her side: She-Hulk. Captain Marvel. Dazzler. Medusa. Nico Minoru. Together, they are A FORCE to be reckoned with!",
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/6047e9afb4c32.jpg"
+    },
+    {
+        "id": 19245,
+        "title": "A-Force (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/553a60c8bcc98.jpg"
+    },
+    {
+        "id": 3620,
+        "title": "A-Next (1998 - 1999)",
+        "description": null,
+        "startYear": 1998,
+        "endYear": 1999,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/5a85ca6caeb9f.jpg"
+    },
+    {
+        "id": 35455,
+        "title": "A.X.E.: Death to the Mutants (2022)",
+        "description": "The mutants are Deviants. Eternals are coded to correct excess deviation. The mutants are eternal, Mars colonizers, ever-spreading. Eternals know what they should do. Our heroes don\u2019t want to, but can they resist the murderous designs coded into their body as surely as any Sentinel? And if they can\u2019t, can anyone survive the coming judgment?",
+        "startYear": 2022,
+        "endYear": 2022,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/62f3c7bba6677.jpg"
+    },
+    {
+        "id": 34459,
+        "title": "A.X.E.: Judgment Day (2022)",
+        "description": "IN THE LAND OF THE RIGHTEOUS...The X-Men claim they\u2019re the planets\u2019 new gods. The Eternals know that position is already filled. The Avengers are about to realize exactly how many secrets their so-called friends have kept from them. Years of tension lead to a volcanic eruption as two worlds burn. Who has leaked the X-Men\u2019s secrets to their latest foes? Why is Tony Stark abducting an old friend? And who stands in judgment over the whole world? Judgment Day from Kieron Gillen and Valerio Schiti is the apocalyptic emotional event to define the summer.",
+        "startYear": 2022,
+        "endYear": 2022,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/62d05d94004f6.jpg"
+    },
+    {
+        "id": 27272,
+        "title": "Absolute Carnage (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/5d83a25d80adb.jpg"
+    },
+    {
+        "id": 27720,
+        "title": "Absolute Carnage Vs. Deadpool (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5d546c6f94ea0.jpg"
+    },
+    {
+        "id": 27633,
+        "title": "Absolute Carnage: Lethal Protectors (2019)",
+        "description": "Collects Absolute Carnage: Lethal Protectors (2019) #1-3, Absolute Carnage: Avengers (2019) #1. The cult of Carnage comes to New York City! When he was last seen, John Jameson was being recovered from the site of a massacre in Doverton, Colorado, by Misty Knight. Since then, they\u2019ve both been MIA. So how, then, did they become the only two people poised to prevent chaos as a deadly foe of Spider-Man\u2019s is resurrected in the basement of the Ravencroft Institute for the Criminally Insane? Can the team of Iron Fist, Morbius and Cloak & Dagger help them defeat the back-from-the-dead Demogoblin?! Plus: Years ago, Cletus Kasady used the Carnage symbiote to take over Doverton \u2014 as well as the team of Avengers who arrived to stop him! Now Captain America, Hawkeye, Wolverine and the Thing must assemble once more when they discover the town\u2019s fate! ",
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/5d5efe633098e.jpg"
+    },
+    {
+        "id": 27634,
+        "title": "Absolute Carnage: Miles Morales (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5d5f02236f6c3.jpg"
+    },
+    {
+        "id": 27635,
+        "title": "Absolute Carnage: Scream (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/5d4c490369198.jpg"
+    },
+    {
+        "id": 9996,
+        "title": "Acts of Vengeance (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4c7c5bb74d7f7.jpg"
+    },
+    {
+        "id": 6079,
+        "title": "Adam: Legend of the Blue Marvel (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5449710ac36d2.jpg"
+    },
+    {
+        "id": 7524,
+        "title": "Adam: Legend of the Blue Marvel (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb4f0966a26a.jpg"
+    },
+    {
+        "id": 13616,
+        "title": "ADAM: LEGEND OF THE BLUE MARVEL TPB (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4baea10c9a792.jpg"
+    },
+    {
+        "id": 2113,
+        "title": "Adventure Into Fear (1970 - 1975)",
+        "description": null,
+        "startYear": 1970,
+        "endYear": 1975,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/56fd2a4806e20.jpg"
+    },
+    {
+        "id": 24227,
+        "title": "Adventures of Captain America (1991 - 1992)",
+        "description": null,
+        "startYear": 1991,
+        "endYear": 1992,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5a85e75237ab9.jpg"
+    },
+    {
+        "id": 19095,
+        "title": "Adventures of Cyclops & Phoenix (1994)",
+        "description": null,
+        "startYear": 1994,
+        "endYear": 1994,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/57e44b0609c26.jpg"
+    },
+    {
+        "id": 27587,
+        "title": "Adventures of Spider-Man (1996 - 1997)",
+        "description": null,
+        "startYear": 1996,
+        "endYear": 1997,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/5d7bb5e7a9e65.jpg"
+    },
+    {
+        "id": 27588,
+        "title": "Adventures of the X-Men (1996 - 1997)",
+        "description": null,
+        "startYear": 1996,
+        "endYear": 1997,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5d1f76144a37e.jpg"
+    },
+    {
+        "id": 27392,
+        "title": "Aero (2019 - 2020)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/5d128077da440.jpg"
+    },
+    {
+        "id": 19246,
+        "title": "Age of Apocalypse (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/55df421e41423.jpg"
+    },
+    {
+        "id": 15331,
+        "title": "Age of Apocalypse (2012 - 2013)",
+        "description": null,
+        "startYear": 2012,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/50fecabbdc324.jpg"
+    },
+    {
+        "id": 3614,
+        "title": "Age of Apocalypse: The Chosen (1995)",
+        "description": null,
+        "startYear": 1995,
+        "endYear": 1995,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/00/4bad2bdd3c8a9.jpg"
+    },
+    {
+        "id": 26676,
+        "title": "Age of Conan: Belit (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/5c7ee71bcbf55.jpg"
+    },
+    {
+        "id": 9790,
+        "title": "Age of Heroes (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/4baa86beaef47.jpg"
+    },
+    {
+        "id": 17318,
+        "title": "Age of Ultron (2013)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/51881d494a93c.jpg"
+    },
+    {
+        "id": 19247,
+        "title": "Age of Ultron Vs. Zombies (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/553a60ff0143b.jpg"
+    },
+    {
+        "id": 17719,
+        "title": "Age of Ultron: AI (2013)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5384f3bcb86ef.jpg"
+    },
+    {
+        "id": 26335,
+        "title": "Age of X-Man: Apocalypse & the X-Tracts (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/5c7ee7aa19dee.jpg"
+    },
+    {
+        "id": 26331,
+        "title": "Age of X-Man: Nextgen (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/5c5caa029605b.jpg"
+    },
+    {
+        "id": 26334,
+        "title": "Age of X-Man: Prisoner X (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/5c76ffb674769.jpg"
+    },
+    {
+        "id": 26332,
+        "title": "Age of X-Man: The Amazing Nightcrawler (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/5c6499ce25c5b.jpg"
+    },
+    {
+        "id": 26330,
+        "title": "Age of X-Man: The Marvelous X-Men (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/5c53536aaf141.jpg"
+    },
+    {
+        "id": 26333,
+        "title": "Age of X-Man: X-Tremists (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/5c6f398480cbe.jpg"
+    },
+    {
+        "id": 13603,
+        "title": "Age of X: Alpha (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/54f4cd6d628c7.jpg"
+    },
+    {
+        "id": 13896,
+        "title": "Age of X: Universe (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/5d935248c8172.jpg"
+    },
+    {
+        "id": 459,
+        "title": "Agent X (2002 - 2004)",
+        "description": null,
+        "startYear": 2002,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bb82b2cb5a9b.jpg"
+    },
+    {
+        "id": 1097,
+        "title": "Agents of Atlas (2006 - 2007)",
+        "description": "Jimmy Woo and one of the most unique teams in Marvel history reunite to uncover the machinations of the mysterious Atlas Corporation! Follow the fun, action-packed exploits of Gorilla-Man, The Uranian, Namora, Venus and MI-11 in this award-winning series!",
+        "startYear": 2006,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/5e2b2afa154de.jpg"
+    },
+    {
+        "id": 6611,
+        "title": "Agents of Atlas (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/4bb60402ee6d8.jpg"
+    },
+    {
+        "id": 6807,
+        "title": "Agents of Atlas (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb45ad334f9f.jpg"
+    },
+    {
+        "id": 27624,
+        "title": "Agents of Atlas (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5d41b04849a7b.jpg"
+    },
+    {
+        "id": 9822,
+        "title": "Agents of Atlas MGC (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4baa8594816dc.jpg"
+    },
+    {
+        "id": 6484,
+        "title": "Agents of Atlas Poster (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bb60860b305a.jpg"
+    },
+    {
+        "id": 1980,
+        "title": "AGENTS OF ATLAS PREMIERE HC (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc354467aacc.jpg"
+    },
+    {
+        "id": 9369,
+        "title": "Agents of Atlas Vs. (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc5df156834d.jpg"
+    },
+    {
+        "id": 7527,
+        "title": "Agents of Atlas: Dark Reign (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bb3c8284f915.jpg"
+    },
+    {
+        "id": 7526,
+        "title": "Agents of Atlas: Dark Reign (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bb493337a77e.jpg"
+    },
+    {
+        "id": 9373,
+        "title": "Agents of Atlas: Turf Wars (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4ba94cd5c7387.jpg"
+    },
+    {
+        "id": 9197,
+        "title": "Agents of Atlas: Turf Wars (2010 - Present)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bae4b150c69f.jpg"
+    },
+    {
+        "id": 20607,
+        "title": "Agents of S.H.I.E.L.D. (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5693e36a7b94b.jpg"
+    },
+    {
+        "id": 672,
+        "title": "Alias (2001 - 2003)",
+        "description": null,
+        "startYear": 2001,
+        "endYear": 2003,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5ace603604ffa.jpg"
+    },
+    {
+        "id": 9823,
+        "title": "Alias MGC (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4baa85df3296d.jpg"
+    },
+    {
+        "id": 7502,
+        "title": "Alias Ultimate Collection Book 1 (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bac20f381581.jpg"
+    },
+    {
+        "id": 9198,
+        "title": "Alias Ultimate Collection Book 2 (2010 - Present)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bae498a0aeb1.jpg"
+    },
+    {
+        "id": 35683,
+        "title": "Alien (2022 - Present)",
+        "description": "PHILLIP KENNEDY JOHNSON AND JULIUS OHTA LAUNCH A NEW ALIEN EPIC! MAN, MACHINE AND THE MOST TERRIFYING CREATURE IN THE UNIVERSE\u2026IT'S AN EXPRESS ELEVATOR TO HELL AND YOU'RE GONNA WANT TO BE ON IT! A small colony of synths have settled in secret on a backwater moon. When a company of United System soldiers come to them for help retrieving biotechnology on a hostile planet that could be the key to saving humanity, the synths must decide whether the prospect of peace between man and machine is worth the risk of betrayal.",
+        "startYear": 2022,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/6311fad48d030.jpg"
+    },
+    {
+        "id": 30863,
+        "title": "Alien (2021 - Present)",
+        "description": "THE ICONIC CINEMATIC TERROR MAKES ITS MARVEL DEBUT! Gabriel Cruz gave his life to Weyland-Yutani--In the case of an alien attack he barely survived, almost literally! Recently retired, Cruz is trying to patch things up with his abandoned son with the help of his friend, a Bishop-model android, but his re-entry into civilian life is not going smoothly\u2026and his encounters with the deadly Xenomorph are far from over. Phillip Kennedy Johnson and Salvador Larroca team up to tell an all-new tale of the titan of horror and science fiction that has scared audiences for decades. No one is safe. No one is innocent. And no one can hear you scream. ",
+        "startYear": 2021,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/6055161a2b73d.jpg"
+    },
+    {
+        "id": 31982,
+        "title": "Aliens: Aftermath (2021)",
+        "description": " FOR ALIENS\u2019 35TH ANNIVERSARY, A RETURN TO HADLEY\u2019S HOPE! It\u2019s been 35 years since the tragedy of the Hadley\u2019s Hope colony, but what happened to that ill-fated venture has been shrouded in mystery. A renegade crew of investigative journalists are heading towards the moon that Weyland-Yutani has wiped from all records, and they\u2019ll bring back the truth even if it kills them\u2026and what remains in that bombed out site will try to do just that. Benjamin Percy and Dave Wachter imagine a terrifying possible future for LV-426 in this celebration of the 35th Anniversary of one of the most influential science fiction films of all time!",
+        "startYear": 2021,
+        "endYear": 2021,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/60edf70ed4eb2.png"
+    },
+    {
+        "id": 7533,
+        "title": "All Select Comics 70th Anniversary Special (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5a85c4f23dca6.jpg"
+    },
+    {
+        "id": 7534,
+        "title": "All Winners Comics 70th Anniversary Special (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb43f12a8fff.jpg"
+    },
+    {
+        "id": 19163,
+        "title": "All-New Captain America (2014 - 2015)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/542eed66c2e03.jpg"
+    },
+    {
+        "id": 19250,
+        "title": "ALL-NEW CAPTAIN AMERICA VOL. 1: HYDRA ASCENDANT PREMIERE HC IMMONEN COVER (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/55898e36ed8ff.jpg"
+    },
+    {
+        "id": 19253,
+        "title": "All-New Captain America: Fear Him (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/54db89f683509.jpg"
+    },
+    {
+        "id": 19134,
+        "title": "All-New Captain America: Fear Him Infinite Comic (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/56942b535cef5.jpg"
+    },
+    {
+        "id": 18794,
+        "title": "All-New Doop (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/542d783a22068.jpg"
+    },
+    {
+        "id": 18621,
+        "title": "All-New Ghost Rider (2014 - 2015)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/542d7848aef75.jpg"
+    },
+    {
+        "id": 23058,
+        "title": "All-New Guardians of the Galaxy (2017)",
+        "description": null,
+        "startYear": 2017,
+        "endYear": 2017,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5d92452f1ab25.jpg"
+    },
+    {
+        "id": 22776,
+        "title": "ALL-NEW GUARDIANS OF THE GALAXY VOL. 1: COMMUNICATION BREAKDOWN TPB (2017)",
+        "description": null,
+        "startYear": 2017,
+        "endYear": 2017,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/5a85d539549f2.jpg"
+    },
+    {
+        "id": 20468,
+        "title": "All-New Hawkeye (2015 - 2016)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5639137fdd412.jpg"
+    },
+    {
+        "id": 19255,
+        "title": "All-New Hawkeye (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/553a6d4aeae4b.jpg"
+    },
+    {
+        "id": 20681,
+        "title": "All-New Inhumans (2015 - 2016)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/5d9353a729ec2.jpg"
+    },
+    {
+        "id": 18315,
+        "title": "All-New Invaders (2014 - 2015)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/542d785a30f9f.jpg"
+    },
+    {
+        "id": 13494,
+        "title": "All-New Iron Manual (2008 - 2010)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5a90336e055b9.jpg"
+    },
+    {
+        "id": 4897,
+        "title": "All-New Iron Manual (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5a90336e055b9.jpg"
+    },
+    {
+        "id": 18729,
+        "title": "All-New Marvel Now! Point One (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/542d785e5c046.jpg"
+    },
+    {
+        "id": 1023,
+        "title": "All-New Official Handbook of the Marvel Universe A to Z (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc6061ade06e.jpg"
+    },
+    {
+        "id": 3884,
+        "title": "All-New Official Handbook of the Marvel Universe a to Z Vol. 1 Premiere (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc316432279b.jpg"
+    },
+    {
+        "id": 4600,
+        "title": "All-New Official Handbook of the Marvel Universe a to Z Vol. 2 (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb85bbfb4189.jpg"
+    },
+    {
+        "id": 1147,
+        "title": "All-New Official Handbook of the Marvel Universe a to Z: Update (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc5abe298e2e.jpg"
+    },
+    {
+        "id": 7231,
+        "title": "All-New Savage She-Hulk (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4bb574ed79551.jpg"
+    },
+    {
+        "id": 18524,
+        "title": "All-New Ultimates (2014 - 2015)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5457f0398fec4.jpg"
+    },
+    {
+        "id": 20682,
+        "title": "All-New Wolverine (2015 - 2018)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2018,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/5a8dec75f41c0.jpg"
+    },
+    {
+        "id": 18136,
+        "title": "All-New X-Factor (2014 - 2015)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/542d786f3103c.jpg"
+    },
+    {
+        "id": 16449,
+        "title": "All-New X-Men (2012 - 2015)",
+        "description": "In the wake of the events of Avengers Vs. X-Men, the mutant world is set to receive a big blast from the past, in the form of the original X-Men! How will the young, unsuspecting mutants from the past - including Jean Grey - react to the conflict and turmoil that has engulfed the world of their future?",
+        "startYear": 2012,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/5384e7d05aaee.jpg"
+    },
+    {
+        "id": 20622,
+        "title": "All-New X-Men (2015 - 2017)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2017,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5d9353f64a331.jpg"
+    },
+    {
+        "id": 19261,
+        "title": "All-New X-Men Vol. 7: The Utopians (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/55a3d905e3b1d.jpg"
+    },
+    {
+        "id": 20443,
+        "title": "All-New, All-Different Avengers (2015 - 2016)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/575ef1b6721a3.jpg"
+    },
+    {
+        "id": 34554,
+        "title": "All-Out Avengers (2022 - 2023)",
+        "description": "Introducing: the all-new Avengers series that starts in the middle of the explosive action and races to a shocking climax! An alien attack. A missing piece of wormhole tech. A city warped, its citizens transformed into hideous creatures loyal to an Empress from the far side of the universe. And a certain Captain Marvel, looking to her fellow Avengers with murderous intent...Plunge into the action and take a deep breath because you will not be allowed up for air as a thrilling new series kicks off in the strongest, strangest way possible.",
+        "startYear": 2022,
+        "endYear": 2023,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/631a4fda23e3f.jpg"
+    },
+    {
+        "id": 2114,
+        "title": "All-Winners Comics (1941 - 1947)",
+        "description": null,
+        "startYear": 1941,
+        "endYear": 1947,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5a85c63287b4f.jpg"
+    },
+    {
+        "id": 9865,
+        "title": "All-Winners Squad: Band of Heroes (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/550b220141faf.jpg"
+    },
+    {
+        "id": 719,
+        "title": "Alpha Flight (2004 - 2005)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4bc69af2a8afd.jpg"
+    },
+    {
+        "id": 2116,
+        "title": "Alpha Flight (1983 - 1994)",
+        "description": null,
+        "startYear": 1983,
+        "endYear": 1994,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/57c5a37acf5cc.jpg"
+    },
+    {
+        "id": 13907,
+        "title": "Alpha Flight (2011 - 2012)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/550b23ac1b747.jpg"
+    },
+    {
+        "id": 1983,
+        "title": "Alpha Flight Classic Vol. 1 (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc35441bd8ae.jpg"
+    },
+    {
+        "id": 27041,
+        "title": "Alpha Flight Facsimile Edition (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5cdb0473a1b38.jpg"
+    },
+    {
+        "id": 1234,
+        "title": "Alpha Flight Vol. 1: You Gotta Be Kiddin' Me (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc6b55e2b06d.jpg"
+    },
+    {
+        "id": 1335,
+        "title": "Alpha Flight Vol. 2: Waxing Poetic (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4bc6434b0aa70.jpg"
+    },
+    {
+        "id": 17650,
+        "title": "Alpha: Big Time (2013)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/50f9b4b2208ce.jpg"
+    },
+    {
+        "id": 3616,
+        "title": "Amazing Adult Fantasy (1961 - 1962)",
+        "description": null,
+        "startYear": 1961,
+        "endYear": 1962,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/20/4bad2be2600e0.jpg"
+    },
+    {
+        "id": 6666,
+        "title": "Amazing Adventures (1970 - 1976)",
+        "description": null,
+        "startYear": 1970,
+        "endYear": 1976,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5a85c7ff67aac.jpg"
+    },
+    {
+        "id": 3617,
+        "title": "Amazing Adventures (1961)",
+        "description": null,
+        "startYear": 1961,
+        "endYear": 1961,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5a85c79917318.jpg"
+    },
+    {
+        "id": 25984,
+        "title": "Amazing Fantasy (2021)",
+        "description": "EXPERIENCE THESE HEROES LIKE NEVER BEFORE! Red Room Black Widow, teenage Spider-Man, World War II Captain America \u2014 the most iconic versions of your favorite Marvel characters from across time and space all wake up on an island of intrigue, darkness and...Amazing Fantasy. Are they dead? Are they dreaming? Or have they truly been transported to another fantastical realm? And is there any way for them to return home? This isn't just a love letter to your favorite Marvel eras, it's a reinvestment in the seminal characters you've always loved, plucked from their quintessential timelines. Brought to you by KAARE ANDREWS, this is the one you've been waiting for, True Believers... It's one Amazing Fantasy for the ages!",
+        "startYear": 2021,
+        "endYear": 2021,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/60fad1ee16943.jpg"
+    },
+    {
+        "id": 29303,
+        "title": "Amazing Fantasy (1995 - 1996)",
+        "description": null,
+        "startYear": 1995,
+        "endYear": 1996,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5d93545e42556.jpg"
+    },
+    {
+        "id": 769,
+        "title": "Amazing Fantasy (2004 - 2006)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4bc6807b7687c.jpg"
+    },
+    {
+        "id": 2707,
+        "title": "AMAZING FANTASY OMNIBUS HC (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc39a48d373a.jpg"
+    },
+    {
+        "id": 28060,
+        "title": "Amazing Mary Jane (2019 - Present)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/5daa07b1321fe.jpg"
+    },
+    {
+        "id": 22523,
+        "title": "Amazing Scarlet Spider (1995)",
+        "description": null,
+        "startYear": 1995,
+        "endYear": 1995,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5d9356b7d8531.jpg"
+    },
+    {
+        "id": 1126,
+        "title": "Amazing Spider-Girl (2006 - 2009)",
+        "description": "What do you get when you ask the question, \r\nWhat if Spider-Man had a daughter?\" An excellent book, fit for readers of all ages! Following the antics and adventures of May \"Mayday\" Parker, this Spider-book has everything you could want in a comic--action, laughs, mystery and someone in a Spidey suit.",
+        "startYear": 2006,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/5a8c8a4a35c7b.jpg"
+    },
+    {
+        "id": 2234,
+        "title": "AMAZING SPIDER-GIRL VOL. 1: WHATEVER HAPPENED TO THE DAUGHTER OF SPIDER-MAN TPB (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bc4c7bd648ed.jpg"
+    },
+    {
+        "id": 3101,
+        "title": "AMAZING SPIDER-GIRL VOL. 2: COMES THE CARNAGE! TPB (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc38eefa345d.jpg"
+    },
+    {
+        "id": 4910,
+        "title": "AMAZING SPIDER-GIRL VOL. 3: MIND GAMES TPB (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bb82759963c4.jpg"
+    },
+    {
+        "id": 6440,
+        "title": "AMAZING SPIDER-GIRL VOL. 4: A BRAND NEW MAY TPB (2008 - Present)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bb649211ab6b.jpg"
+    },
+    {
+        "id": 7538,
+        "title": "AMAZING SPIDER-GIRL VOL. 5: MAYBREAK TPB (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bb4f6003e143.jpg"
+    },
+    {
+        "id": 454,
+        "title": "Amazing Spider-Man (1999 - 2013)",
+        "description": "Looking for the one superhero comic you just have to read? You've found it! <i>Amazing Spider-Man</i> is the cornerstone of the Marvel Universe. This is where you'll find all the big-time action, major storylines and iconic Spider-Man magic you'd come to expect from the Wall-Crawler.",
+        "startYear": 1999,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/51252718e1c2d.jpg"
+    },
+    {
+        "id": 21407,
+        "title": "Amazing Spider-Man & Silk: The Spider(Fly) Effect (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/10/5d93554373781.jpg"
+    },
+    {
+        "id": 21127,
+        "title": "Amazing Spider-Man & Silk: The Spider(Fly) Effect Infinite Comic (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/e0/5699311195336.jpg"
+    },
+    {
+        "id": 9802,
+        "title": "Amazing Spider-Man Annual (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4baa72fc24366.jpg"
+    },
+    {
+        "id": 2984,
+        "title": "Amazing Spider-Man Annual (1964 - 2018)",
+        "description": null,
+        "startYear": 1964,
+        "endYear": 2018,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/57e44d50686a4.jpg"
+    },
+    {
+        "id": 5958,
+        "title": "Amazing Spider-Man Annual (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb6cf41806d7.jpg"
+    },
+    {
+        "id": 7544,
+        "title": "AMAZING SPIDER-MAN BY JMS ULTIMATE COLLECTION BOOK 1 TPB (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bb4bdcde30d2.jpg"
+    },
+    {
+        "id": 7545,
+        "title": "Amazing Spider-Man by JMS Ultimate Collection Book 2 (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/a0/4c7c9982edf76.jpg"
+    },
+    {
+        "id": 7546,
+        "title": "Amazing Spider-Man by JMS Ultimate Collection Book 3 (2010 - Present)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4ba9295e2454d.jpg"
+    },
+    {
+        "id": 7547,
+        "title": "Amazing Spider-Man by JMS Ultimate Collection Book 4 (2010 - Present)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc5e9d318b1c.jpg"
+    },
+    {
+        "id": 9071,
+        "title": "Amazing Spider-Man Digital (2009 - 2010)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4badd30663460.jpg"
+    },
+    {
+        "id": 5376,
+        "title": "Amazing Spider-Man Family (2008 - 2009)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c3617c8207ec.jpg"
+    },
+    {
+        "id": 1952,
+        "title": "Amazing Spider-Man Magazine (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bc355231bd60.jpg"
+    },
+    {
+        "id": 9917,
+        "title": "Amazing Spider-Man MGC (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4ba9461a28a9e.jpg"
+    },
+    {
+        "id": 1967,
+        "title": "AMAZING SPIDER-MAN OMNIBUS VOL. 1 HC (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc354e3f1df8.jpg"
+    },
+    {
+        "id": 9780,
+        "title": "Amazing Spider-Man Presents: American Son (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4baa72f7b282f.jpg"
+    },
+    {
+        "id": 7680,
+        "title": "Amazing Spider-Man Presents: Anti-Venom - New Ways to Live (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bb40667276d9.jpg"
+    },
+    {
+        "id": 9835,
+        "title": "Amazing Spider-Man Presents: Black Cat (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4ba94e24307b0.jpg"
+    },
+    {
+        "id": 9022,
+        "title": "Amazing Spider-Man Presents: Jackpot (2009 - 2010)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bae57932fd34.jpg"
+    },
+    {
+        "id": 21739,
+        "title": "Amazing Spider-Man Super Special (1995)",
+        "description": null,
+        "startYear": 1995,
+        "endYear": 1995,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5762f435458eb.jpg"
+    },
+    {
+        "id": 1489,
+        "title": "AMAZING SPIDER-MAN VOL. 10: NEW AVENGERS TPB (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6147531eea.jpg"
+    },
+    {
+        "id": 318,
+        "title": "AMAZING SPIDER-MAN VOL. 6: HAPPY BIRTHDAY TPB (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4bb50cfbef02e.jpg"
+    },
+    {
+        "id": 1292,
+        "title": "AMAZING SPIDER-MAN VOL. 7: BOOK OF EZEKIEL TPB (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bc6867e1fad9.jpg"
+    },
+    {
+        "id": 1291,
+        "title": "Amazing Spider-Man Vol. 7: The Book of Ezekiel (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc6645f3aaf5.jpg"
+    },
+    {
+        "id": 1283,
+        "title": "AMAZING SPIDER-MAN VOL. 8: SINS PAST TPB (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bc657174577d.jpg"
+    },
+    {
+        "id": 1394,
+        "title": "AMAZING SPIDER-MAN VOL. 9: SKIN DEEP TPB (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4bc63c9e69b2c.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Amazing Spider-Man Vol. III: Until the Stars Turn Cold (1999)",
+        "description": null,
+        "startYear": 1999,
+        "endYear": 1999,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4ba92cccf096a.jpg"
+    },
+    {
+        "id": 8806,
+        "title": "Amazing Spider-Man: American Son Sketchbook (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb4b4462f8b3.jpg"
+    },
+    {
+        "id": 18617,
+        "title": "Amazing Spider-Man: Cinematic Infinite Comic (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5696bb20125d0.jpg"
+    },
+    {
+        "id": 16312,
+        "title": "Amazing Spider-Man: Ends of the Earth (2012)",
+        "description": null,
+        "startYear": 2012,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/54492fbfb7238.jpg"
+    },
+    {
+        "id": 6604,
+        "title": "Amazing Spider-Man: Extra! (2008 - 2009)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bb6042844ce9.jpg"
+    },
+    {
+        "id": 7309,
+        "title": "Amazing Spider-Man: Extra! (the Spartacus Gambit) (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb531845aba8.jpg"
+    },
+    {
+        "id": 31017,
+        "title": "Amazing Spider-Man: Facsimile Edition (2021)",
+        "description": null,
+        "startYear": 2021,
+        "endYear": 2021,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/60f20ea2976e0.jpg"
+    },
+    {
+        "id": 17749,
+        "title": "Amazing Spider-Man: Family Business (2013)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/57c7529586451.jpg"
+    },
+    {
+        "id": 27421,
+        "title": "Amazing Spider-Man: Full Circle (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5f3eb3a3e7720.jpg"
+    },
+    {
+        "id": 5269,
+        "title": "Amazing Spider-Man: Green Goblin by Alex Ross Poster (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4c361dd8b99fa.jpg"
+    },
+    {
+        "id": 14987,
+        "title": "Amazing Spider-Man: Hooky (1986)",
+        "description": null,
+        "startYear": 1986,
+        "endYear": 1986,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/550b239ceb178.jpg"
+    },
+    {
+        "id": 9544,
+        "title": "Amazing Spider-Man: Official Index to the Marvel Universe (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/4bc5e0bcb2116.jpg"
+    },
+    {
+        "id": 22545,
+        "title": "Amazing Spider-Man: Renew Your Vows (2016 - 2018)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2018,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5a85da5482c40.jpg"
+    },
+    {
+        "id": 19632,
+        "title": "Amazing Spider-Man: Renew Your Vows (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/553a610ccaa5d.jpg"
+    },
+    {
+        "id": 29604,
+        "title": "Amazing Spider-Man: The Daily Bugle (2020)",
+        "description": "SPINNING OUT OF AMAZING SPIDER-MAN! The journalist must speak truth to power\u2014whether or not it\u2019s wielded responsibly. Helmed by Peter Parker\u2019s mentor, Robbie Robertson, the Daily Bugle staff is at last chasing stories that matter. And in a city under Mayor Wilson Fisk, keeping the public informed is as essential as it is dangerous. Weaving between events in AMAZING SPIDER-MAN and DAREDEVIL, Mat Johnson (Hellblazer Special: Papa Midnite, Incognegro, Loving Day) and Mack Chater (BLACK PANTHER AND THE CREW, Briggs Land) are following a lead into Kingpin and Spider-Man\u2019s past that will change the way you look at the webslinger now, and as his story continues. ",
+        "startYear": 2020,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5e29bcb5e61e7.jpg"
+    },
+    {
+        "id": 16371,
+        "title": "Amazing Spider-Man: The Movie (2012)",
+        "description": null,
+        "startYear": 2012,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5d9355a46c7f7.jpg"
+    },
+    {
+        "id": 23769,
+        "title": "Amazing Spider-Man: Venom Inc. Alpha (2017)",
+        "description": null,
+        "startYear": 2017,
+        "endYear": 2017,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5a85e146d41c0.jpg"
+    },
+    {
+        "id": 17834,
+        "title": "Amazing Spider-Man: Who Am I? Infinite Digital Comic (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/54f4cdfbb825e.jpg"
+    },
+    {
+        "id": 18142,
+        "title": "Amazing X-Men (2013 - 2015)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/5387730e343e8.jpg"
+    },
+    {
+        "id": 3618,
+        "title": "Amazing X-Men (1995)",
+        "description": null,
+        "startYear": 1995,
+        "endYear": 1995,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5d935617b66a0.jpg"
+    },
+    {
+        "id": 18901,
+        "title": "Amazing X-Men Annual (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/542eed3a22e57.jpg"
+    },
+    {
+        "id": 24322,
+        "title": "Amazing-Spider-Man: Worldwide Vol. 8 (2018)",
+        "description": null,
+        "startYear": 2018,
+        "endYear": 2018,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5b2cf54594b75.jpg"
+    },
+    {
+        "id": 22997,
+        "title": "America (2017 - 2018)",
+        "description": null,
+        "startYear": 2017,
+        "endYear": 2018,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5a85c9459c06d.jpg"
+    },
+    {
+        "id": 29493,
+        "title": "America Chavez: Made in the USA (2021)",
+        "description": "WHO IS AMERICA? America Chavez is incredible \u2013 her origins, her strength, her dimension-shattering star portals! But when the foundation of everything she believes is shaken, America will stand up and face the parts of herself she\u2019s been running from. From writer Kalinda Vazquez (Marvel\u2019s Runaways) and artist Carlos Gomez (Amazing Mary Jane) comes an explosive, brand-new story all about what made America Chavez who she is \u2013 and what she\u2019ll do to protect the ones she loves. ",
+        "startYear": 2021,
+        "endYear": 2021,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/60354449c27af.jpg"
+    },
+    {
+        "id": 4876,
+        "title": "American Dream (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5a85c3842e4b1.jpg"
+    },
+    {
+        "id": 6051,
+        "title": "AMERICAN DREAM: BEYOND COURAGE TPB (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb6c8b147d6d.jpg"
+    },
+    {
+        "id": 6664,
+        "title": "American Eagle: Just a Little Old-Fashioned Justice (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bb5ea8356d94.jpg"
+    },
+    {
+        "id": 4811,
+        "title": "Angel: Revelations (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/5a85d59f457e1.jpg"
+    },
+    {
+        "id": 20696,
+        "title": "Angela: Queen of Hel (2015 - 2016)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/5c3dfcdf471e1.jpg"
+    },
+    {
+        "id": 1152,
+        "title": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006 - 2008)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bad4666b83b5.jpg"
+    },
+    {
+        "id": 3613,
+        "title": "Annihilation (2006 - 2007)",
+        "description": "Annihilus has decided the Negative Zone can't contain his thirst for conquest and brings his Annihilation Wave to bear on our galaxy! Nova, The Silver Surfer, Super-Skrull, Ronan, Drax, Thanos, Star-Lord and more must repel the seemingly unstoppable invasion in this cosmic epic!",
+        "startYear": 2006,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5130ee8881f4b.jpg"
+    },
+    {
+        "id": 1924,
+        "title": "Annihilation Book 1 (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc5a6d4b3c86.jpg"
+    },
+    {
+        "id": 2973,
+        "title": "ANNIHILATION BOOK 1 HC (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/567038ddcec1d.jpg"
+    },
+    {
+        "id": 2974,
+        "title": "ANNIHILATION BOOK 2 (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc390fd934d0.jpg"
+    },
+    {
+        "id": 1971,
+        "title": "ANNIHILATION BOOK 2 TPB (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc354501f71d.jpg"
+    },
+    {
+        "id": 3131,
+        "title": "ANNIHILATION BOOK 3 HC (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bc38d9221f45.jpg"
+    },
+    {
+        "id": 2436,
+        "title": "ANNIHILATION BOOK 3 TPB (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bc492d1970b8.jpg"
+    },
+    {
+        "id": 6056,
+        "title": "ANNIHILATION CLASSIC HC (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb6c85261aaf.jpg"
+    },
+    {
+        "id": 7561,
+        "title": "ANNIHILATION CLASSIC TPB (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb4bed56a7a8.jpg"
+    },
+    {
+        "id": 2211,
+        "title": "Annihilation Saga (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bc4c78c72525.jpg"
+    },
+    {
+        "id": 3061,
+        "title": "Annihilation: Conquest (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/513a74d8ca878.jpg"
+    },
+    {
+        "id": 2524,
+        "title": "Annihilation: Conquest - Quasar (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bad31d8a0518.jpg"
+    },
+    {
+        "id": 2541,
+        "title": "Annihilation: Conquest - Starlord (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bad30547bd3d.jpg"
+    },
+    {
+        "id": 2532,
+        "title": "Annihilation: Conquest - Wraith (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/4bad31cb0721e.jpg"
+    },
+    {
+        "id": 6025,
+        "title": "ANNIHILATION: CONQUEST BOOK 1 (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/4bb6cbb873f88.jpg"
+    },
+    {
+        "id": 3454,
+        "title": "ANNIHILATION: CONQUEST BOOK 1 TPB (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc33dd3d517e.jpg"
+    },
+    {
+        "id": 6619,
+        "title": "ANNIHILATION: CONQUEST BOOK 2 HC (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4bb6032154425.jpg"
+    },
+    {
+        "id": 5239,
+        "title": "ANNIHILATION: CONQUEST BOOK 2 TPB (2009 - 2008)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/4bb7953c599fa.jpg"
+    },
+    {
+        "id": 2420,
+        "title": "Annihilation: Conquest Prologue (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/513a7464229aa.jpg"
+    },
+    {
+        "id": 1864,
+        "title": "Annihilation: Heralds of Galactus (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/4bad44e791efb.jpg"
+    },
+    {
+        "id": 1081,
+        "title": "Annihilation: Nova (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bad4a9deb432.jpg"
+    },
+    {
+        "id": 1077,
+        "title": "Annihilation: Prologue (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4bad4aafb7d6f.jpg"
+    },
+    {
+        "id": 1079,
+        "title": "Annihilation: Ronan (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bad4aa66c6c7.jpg"
+    },
+    {
+        "id": 1078,
+        "title": "Annihilation: Silver Surfer (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/4bad4aab0d2d3.jpg"
+    },
+    {
+        "id": 1080,
+        "title": "Annihilation: Super-Skrull (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/4bad4aa27dacf.jpg"
+    },
+    {
+        "id": 1115,
+        "title": "Annihilation: The Nova Corps (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4bc5cdc8bec3f.jpg"
+    },
+    {
+        "id": 13025,
+        "title": "Annihilators (2010 - 2011)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4c45e780e2e92.jpg"
+    },
+    {
+        "id": 14818,
+        "title": "Annihilators: Earthfall (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/550b22e216053.jpg"
+    },
+    {
+        "id": 34022,
+        "title": "Ant-Man (2022 - Present)",
+        "description": "Flash back to the early days of Hank Pym's career as the astonishing Ant-Man! It's date night for Hank and his girlfriend Janet Van Dyne, but nobody told that to Ant-Man's enemies! Watch as Hank's ant-agonists band together to finally take down the scientific adventurer! But will anyone come to his rescue? And who is the mysterious stranger who stalks him? Join Al Ewing (IMMORTAL HULK) and Tom Reilly (THE THING) as they explore the history of every hero (past, present and future!) called Ant-Man!",
+        "startYear": 2022,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/62dabe47ba4b1.jpg"
+    },
+    {
+        "id": 19275,
+        "title": "Ant-Man (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/a0/54db8a04bd3d0.jpg"
+    },
+    {
+        "id": 29032,
+        "title": "Ant-Man (2020)",
+        "description": "SWARM APPROACHES! Scott Lang is back and doing better than ever! Er, at least according to him, but his daughter, Stinger, and the anthill he\u2019s living in say otherwise. Desperate to raise his daughter\u2019s opinion of him, Scott takes a job from local beekeepers only to uncover a global conspiracy that could topple the world order! No time to call the Avengers, this sounds like a job for \u2013 ANT-MAN?! Join the explosive creative team of Zeb Wells (NOVA) and Dylan Burnett (X-FORCE, COSMIC GHOST RIDER) as they take Ant-Man to all-new heights in this epic adventure! ",
+        "startYear": 2020,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/5e2f11eceb236.jpg"
+    },
+    {
+        "id": 24290,
+        "title": "Ant-Man & the Wasp (2018)",
+        "description": null,
+        "startYear": 2018,
+        "endYear": 2018,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5b0f19a8a621c.jpg"
+    },
+    {
+        "id": 13082,
+        "title": "Ant-Man & the Wasp (2010 - 2011)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c606835416be.jpg"
+    },
+    {
+        "id": 19276,
+        "title": "Ant-Man Vol. 1: Second-Chance Man (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5589a5e0734f0.jpg"
+    },
+    {
+        "id": 22917,
+        "title": "Ant-Man: Larger than Life (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/57cf02d1a5c13.jpg"
+    },
+    {
+        "id": 20442,
+        "title": "ANT-MAN: LAST DAYS 1 (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/55df36194a26c.jpg"
+    },
+    {
+        "id": 15468,
+        "title": "Ant-Man: Season One (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/550b22f0e883a.jpg"
+    },
+    {
+        "id": 1280,
+        "title": "ARANA VOL. 1: THE HEART OF THE SPIDER DIGEST (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bc6571c605d9.jpg"
+    },
+    {
+        "id": 1454,
+        "title": "ARANA VOL. 2: IN THE BEGINNING DIGEST (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc629190932e.jpg"
+    },
+    {
+        "id": 1562,
+        "title": "ARANA VOL. 3: NIGHT OF THE HUNTER DIGEST (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc60329a8fcd.jpg"
+    },
+    {
+        "id": 853,
+        "title": "Arana: The Heart of the Spider (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5a85d85222050.jpg"
+    },
+    {
+        "id": 19239,
+        "title": "Archangel (1996)",
+        "description": null,
+        "startYear": 1996,
+        "endYear": 1996,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/57e44fa5645cd.jpg"
+    },
+    {
+        "id": 983,
+        "title": "Ares (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc607b2e15e4.jpg"
+    },
+    {
+        "id": 1648,
+        "title": "ARES: GOD OF WAR TPB (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc5f22976d77.jpg"
+    },
+    {
+        "id": 19284,
+        "title": "Armor Wars (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/553a6126e4520.jpg"
+    },
+    {
+        "id": 1203,
+        "title": "Art of Marvel Vol. 2 (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c7d67f1ba2da.jpg"
+    },
+    {
+        "id": 25996,
+        "title": "Asgardians of the Galaxy (2018 - Present)",
+        "description": null,
+        "startYear": 2018,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5c781960a0b92.jpg"
+    },
+    {
+        "id": 19096,
+        "title": "Askani'son (1996)",
+        "description": null,
+        "startYear": 1996,
+        "endYear": 1996,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/57e4508a53bf6.jpg"
+    },
+    {
+        "id": 9087,
+        "title": "Assault on New Olympus Prologue One-Shot (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/4badf9f794e94.jpg"
+    },
+    {
+        "id": 2982,
+        "title": "Astonishing (1951 - 1957)",
+        "description": null,
+        "startYear": 1951,
+        "endYear": 1957,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/4bad2da1f243f.jpg"
+    },
+    {
+        "id": 9792,
+        "title": "Astonishing Spider-Man & Wolverine (2010 - 2011)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/5192711402ad1.jpg"
+    },
+    {
+        "id": 16431,
+        "title": "Astonishing Tales (1970)",
+        "description": null,
+        "startYear": 1970,
+        "endYear": 1970,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/5bef33e2ca6aa.jpg"
+    },
+    {
+        "id": 6792,
+        "title": "Astonishing Tales (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5a85dc7085126.jpg"
+    },
+    {
+        "id": 9029,
+        "title": "Astonishing Tales: Dominic Fortune (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bb46960852dc.jpg"
+    },
+    {
+        "id": 6697,
+        "title": "Astonishing Tales: Iron Man 2020 Digital Comic (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/5d9357737869d.jpg"
+    },
+    {
+        "id": 7080,
+        "title": "Astonishing Tales: M.O.D.O.K. (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb5827eb1b24.jpg"
+    },
+    {
+        "id": 6699,
+        "title": "Astonishing Tales: Mojoworld Digital Comic (2008 - 2009)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/5d9357da210bd.jpg"
+    },
+    {
+        "id": 8738,
+        "title": "Astonishing Tales: One Shots (Daredevil) (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/4bb4f4886895e.jpg"
+    },
+    {
+        "id": 8890,
+        "title": "Astonishing Tales: One Shots (The Thing) (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4bb44cfd8bdb6.jpg"
+    },
+    {
+        "id": 7308,
+        "title": "Astonishing Tales: One-Shots (Spider-Woman) Digital Comic (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bb5332004493.jpg"
+    },
+    {
+        "id": 9046,
+        "title": "ASTONISHING TALES: ONE-SHOTS DIGITAL COMIC 1 (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bb44e8c4b1b7.jpg"
+    },
+    {
+        "id": 9019,
+        "title": "Astonishing Tales: Sabra (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bb3e94512a88.jpg"
+    },
+    {
+        "id": 8861,
+        "title": "Astonishing Tales: Shiver Man (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/4bb4cd6accbeb.jpg"
+    },
+    {
+        "id": 6696,
+        "title": "Astonishing Tales: Wolverine/Punisher Digital Comic (2008 - 2009)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5d93581b07cf4.jpg"
+    },
+    {
+        "id": 9858,
+        "title": "Astonishing Thor (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/b0/4c64691960181.jpg"
+    },
+    {
+        "id": 3619,
+        "title": "Astonishing X-Men (1995)",
+        "description": null,
+        "startYear": 1995,
+        "endYear": 1995,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4bb63e5f88840.jpg"
+    },
+    {
+        "id": 23262,
+        "title": "Astonishing X-Men (2017 - 2018)",
+        "description": null,
+        "startYear": 2017,
+        "endYear": 2018,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/5a85dd08aee53.jpg"
+    },
+    {
+        "id": 744,
+        "title": "Astonishing X-Men (2004 - 2013)",
+        "description": "Marvel's mighty mutants go worldwide and beyond in this series following Cyclops, Wolverine, Beast, Emma Frost and more in their astonishing adventures!",
+        "startYear": 2004,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/5137a3b3d73ef.jpg"
+    },
+    {
+        "id": 7576,
+        "title": "Astonishing X-Men by Joss Whedon & John Cassaday (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4bb466077c481.jpg"
+    },
+    {
+        "id": 992,
+        "title": "Astonishing X-Men Saga (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc6079e63c5c.jpg"
+    },
+    {
+        "id": 5051,
+        "title": "Astonishing X-Men Sketchbook Special (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bb71a1a17229.jpg"
+    },
+    {
+        "id": 1464,
+        "title": "Astonishing X-Men Vol. 1 (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc5f4ef03053.jpg"
+    },
+    {
+        "id": 1298,
+        "title": "Astonishing X-Men Vol. 1: Gifted (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc68628ccfde.jpg"
+    },
+    {
+        "id": 6422,
+        "title": "Astonishing X-Men Vol. 2 (2008 - Present)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb649623fb8f.jpg"
+    },
+    {
+        "id": 1485,
+        "title": "Astonishing X-Men Vol. 3: Torn (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bc5b05070195.jpg"
+    },
+    {
+        "id": 5055,
+        "title": "Astonishing X-Men Vol. 4: Unstoppable (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/4bb7c69333603.jpg"
+    },
+    {
+        "id": 9382,
+        "title": "Astonishing X-Men: Exogenetic (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bac54774987a.jpg"
+    },
+    {
+        "id": 7580,
+        "title": "Astonishing X-Men: Ghost Box (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bb4906c3125f.jpg"
+    },
+    {
+        "id": 8916,
+        "title": "Astonishing X-Men: Ghost Box (2009)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/90/4bb406d321cfc.jpg"
+    },
+    {
+        "id": 5998,
+        "title": "Astonishing X-Men: Ghost Boxes (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bb3fbc6eb871.jpg"
+    },
+    {
+        "id": 9743,
+        "title": "Astonishing X-Men: Gifted with Motion Comic DVD (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bac547c59321.jpg"
+    },
+    {
+        "id": 9781,
+        "title": "Astonishing X-Men: Xenogenesis (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bab8c4bc65c1.jpg"
+    },
+    {
+        "id": 13006,
+        "title": "Astonishing X-Men: Xenogenesis Director's Cut (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4c0fb1860b55c.jpg"
+    },
+    {
+        "id": 10030,
+        "title": "Atlantis Attacks (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/51b8add889975.jpg"
+    },
+    {
+        "id": 29600,
+        "title": "Atlantis Attacks (2020)",
+        "description": "WAR WITH THE WATER KINGDOM! The armies of ATLANTIS face ATLAS in a showdown destined to shake allegiances and break hearts! AMADEUS CHO, SILK, WAVE, SHANG-CHI, and all the heroes of the Atlas have bonded with each other after the challenges of WAR OF THE REALMS. But when a terrible secret incurs the wrath of KING NAMOR, who\u2019s the true friend -- and who\u2019s the true enemy? A titanic tale of love and betrayal, heroes and monsters, gods and underdogs -- plus the shocking return of JIMMY WOO and the original AGENTS OF ATLAS! ",
+        "startYear": 2020,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5e1c92d0cb537.jpg"
+    },
+    {
+        "id": 10031,
+        "title": "Atlantis Attacks (DM Only) (2011)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4c4de5222e66f.jpg"
+    },
+    {
+        "id": 9782,
+        "title": "Atlas (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/4baa84a3ecea0.jpg"
+    },
+    {
+        "id": 1991,
+        "title": "Avengers (1963 - 1996)",
+        "description": "Avengers Assemble! Iron Man, Thor, Captain America and the rest of Earth's Mightiest Heroes unite to stand against the threats none can face alone! See the Avengers go up against Ultron, Kang, the Masters of Evil and more over three decades of epic action!",
+        "startYear": 1963,
+        "endYear": 1996,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/519baa6d1890a.jpg"
+    },
+    {
+        "id": 9085,
+        "title": "Avengers (2010 - 2012)",
+        "description": "At the dawn of the Heroic Age, the Avengers will assemble once again! The Avengers team like you've never seen them before! New roster! New threats! Everyone's favorite super team presented in true blockbuster fashion!",
+        "startYear": 2010,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/5125265c9324a.jpg"
+    },
+    {
+        "id": 3621,
+        "title": "Avengers (1996 - 1997)",
+        "description": null,
+        "startYear": 1996,
+        "endYear": 1997,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/5130f033d84a9.jpg"
+    },
+    {
+        "id": 24229,
+        "title": "Avengers (2018 - Present)",
+        "description": null,
+        "startYear": 2018,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/5ae0da3be00ff.jpg"
+    },
+    {
+        "id": 16452,
+        "title": "Avengers (2012 - 2015)",
+        "description": "It's a new day and a new beginning for the Earth's Mightiest Heroes, with a brand new team that's bigger and better than ever before! And they won't just be 'Earth's Mightiest Heroes', either - when the galaxy is in danger, the Avengers will answer the call!",
+        "startYear": 2012,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/50feba5a77285.jpg"
+    },
+    {
+        "id": 22547,
+        "title": "Avengers (2016 - 2018)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2018,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/5a8ded09a161c.jpg"
+    },
+    {
+        "id": 354,
+        "title": "Avengers (1998 - 2004)",
+        "description": "The Avengers return! Earth's Mightiest Heroes reunite with their biggest guns at the forefront to take on familiar enemies and new threats alike! Featuring the work of Kurt Busiek, George Perez and other quintessential Avengers creators!",
+        "startYear": 1998,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5130f06bd981b.jpg"
+    },
+    {
+        "id": 22739,
+        "title": "Avengers & Champions: Worlds Collide (2018)",
+        "description": null,
+        "startYear": 2018,
+        "endYear": 2018,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5a85e1e820501.jpg"
+    },
+    {
+        "id": 9859,
+        "title": "Avengers & the Infinity Gauntlet (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4beab04d37b4f.jpg"
+    },
+    {
+        "id": 18904,
+        "title": "Avengers & X-Men: Axis (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/542b003d46f64.jpg"
+    },
+    {
+        "id": 14985,
+        "title": "Avengers 1959 (2011 - 2012)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5a85e794f11f3.jpg"
+    },
+    {
+        "id": 17954,
+        "title": "Avengers a.I. (2013 - 2014)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/51d334789176b.jpg"
+    },
+    {
+        "id": 9086,
+        "title": "Avengers Academy (2010 - 2012)",
+        "description": "Reptil! Veil! Finesse! Hazmat! Mettle! Striker! Will they be the next generation of Earth's Mightiest Heroes...or the greatest threat to the Marvel Universe? The instructors at Avengers Academy hope to steer these super-powered and highly-troubled teens in the right direction, but twists and turns abound!",
+        "startYear": 2010,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/511bfc1aedcfc.jpg"
+    },
+    {
+        "id": 23123,
+        "title": "Avengers and Power Pack (2017)",
+        "description": null,
+        "startYear": 2017,
+        "endYear": 2017,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/598b21b5b82a9.jpg"
+    },
+    {
+        "id": 1748,
+        "title": "Avengers and Power Pack Assemble! (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc5bb807cd8c.jpg"
+    },
+    {
+        "id": 1046,
+        "title": "Avengers and Power Pack Assemble! (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5a85ed6c810fd.jpg"
+    },
+    {
+        "id": 1988,
+        "title": "Avengers Annual (1967 - 1994)",
+        "description": null,
+        "startYear": 1967,
+        "endYear": 1994,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/57b21ed449a76.jpg"
+    },
+    {
+        "id": 22936,
+        "title": "Avengers Annual (1999)",
+        "description": null,
+        "startYear": 1999,
+        "endYear": 1999,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/57ee8a6385773.jpg"
+    },
+    {
+        "id": 16875,
+        "title": "Avengers Arena (2012 - 2013)",
+        "description": null,
+        "startYear": 2012,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/50fecc50666f9.jpg"
+    },
+    {
+        "id": 15373,
+        "title": "Avengers Assemble (2012 - 2014)",
+        "description": null,
+        "startYear": 2012,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5386529c7ab9b.jpg"
+    },
+    {
+        "id": 1340,
+        "title": "Avengers Assemble (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc66543cbda8.jpg"
+    },
+    {
+        "id": 9783,
+        "title": "Avengers Assemble Handbook (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4baa849ed10a8.jpg"
+    },
+    {
+        "id": 10040,
+        "title": "Avengers Assemble Vol. 1 (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4c911966b03a8.jpg"
+    },
+    {
+        "id": 1496,
+        "title": "Avengers Assemble Vol. 2 (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc646b403273.jpg"
+    },
+    {
+        "id": 1737,
+        "title": "Avengers Assemble Vol. 3 (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc5d7ead7c08.jpg"
+    },
+    {
+        "id": 1816,
+        "title": "Avengers Assemble Vol. 4 (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc5ad9d21028.jpg"
+    },
+    {
+        "id": 2929,
+        "title": "AVENGERS ASSEMBLE VOL. 5 TPB (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc39242f0083.jpg"
+    },
+    {
+        "id": 2384,
+        "title": "Avengers Classic (2007 - 2008)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/5a85e2d21b481.jpg"
+    },
+    {
+        "id": 1795,
+        "title": "Avengers Disassembled (2006)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2006,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4bc5b3937825b.jpg"
+    },
+    {
+        "id": 344,
+        "title": "Avengers Disassembled (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bc64c9b8a794.jpg"
+    },
+    {
+        "id": 1398,
+        "title": "AVENGERS DISASSEMBLED: CAPTAIN AMERICA TPB (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4bc65a8912553.jpg"
+    },
+    {
+        "id": 1403,
+        "title": "Avengers Disassembled: Iron Man (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc65a8431279.jpg"
+    },
+    {
+        "id": 7067,
+        "title": "AVENGERS DISASSEMBLED: IRON MAN, THOR & CAPTAIN AMERICA HC (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/4bb595fc9829e.jpg"
+    },
+    {
+        "id": 1359,
+        "title": "Avengers Disassembled: Thor (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4c7d667fe32b3.jpg"
+    },
+    {
+        "id": 3971,
+        "title": "Avengers Fairy Tales (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4bb88f8c6acee.jpg"
+    },
+    {
+        "id": 829,
+        "title": "Avengers Finale (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc6b067369a0.jpg"
+    },
+    {
+        "id": 2111,
+        "title": "Avengers Forever (1998 - 1999)",
+        "description": null,
+        "startYear": 1998,
+        "endYear": 1999,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/5cc356103aa44.jpg"
+    },
+    {
+        "id": 32867,
+        "title": "Avengers Forever (2021 - Present)",
+        "description": "AN ALL-NEW SERIES STARRING THE AVENGERS OF THE MULTIVERSE! On a quest for cosmic vengeance, Ghost Rider finds himself roaring through the wasteland on a ruined Earth, where the great age of heroes never came to be, where hope is a four-letter word and where his only ally in the coming battle against the greatest villains any universe has ever seen is the world\u2019s most wanted archaeologist, Tony Stark\u2026the Invincible Ant-Man. Spinning out of the cataclysmic events of AVENGERS #750 and operating in lockstep with the prime AVENGERS series, the next great Avengers saga begins here, as the Mightiest Heroes of every Earth begin to assemble. ",
+        "startYear": 2021,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/61b9ff7132512.jpg"
+    },
+    {
+        "id": 7583,
+        "title": "Avengers Forever (2009 - Present)",
+        "description": null,
+        "startYear": 2009,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4bb4932e3f198.jpg"
+    },
+    {
+        "id": 19212,
+        "title": "Avengers Icons: The Vision (2002)",
+        "description": null,
+        "startYear": 2002,
+        "endYear": 2002,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/5c9d2feb7b6de.jpg"
+    },
+    {
+        "id": 17310,
+        "title": "Avengers Infinity (2013)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/5a85e5c278079.jpg"
+    },
+    {
+        "id": 21096,
+        "title": "AVENGERS K BOOK 1: AVENGERS VS. ULTRON TPB (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5a85e52a659bb.jpg"
+    },
+    {
+        "id": 157,
+        "title": "Avengers Legends Vol. 2: The Korvac Saga (2003)",
+        "description": null,
+        "startYear": 2003,
+        "endYear": 2003,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc47ce174a57.jpg"
+    },
+    {
+        "id": 93,
+        "title": "Avengers Legends Vol. I: Avengers Forever (2002)",
+        "description": null,
+        "startYear": 2002,
+        "endYear": 2002,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/4bc47cad1b1cb.jpg"
+    },
+    {
+        "id": 94,
+        "title": "Avengers Legends Vol. II: George Perez Book I (1999)",
+        "description": null,
+        "startYear": 1999,
+        "endYear": 1999,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc66bc67b321.jpg"
+    },
+    {
+        "id": 31307,
+        "title": "Avengers Mech Strike (2021)",
+        "description": "EARTH\u2019S MIGHTIEST HEROES! The Avengers are confronted with an unstoppable new menace, one that is seemingly impervious to their every strength! But the Avengers aren\u2019t so easily beaten, and when new threats arise, powerful new tools must be brought to bear! Join the Avengers as they battle a brand-new enemy...and begin a deadly game of chess with a shadowy mastermind! ",
+        "startYear": 2021,
+        "endYear": 2021,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/6011885391dba.jpg"
+    },
+    {
+        "id": 1143,
+        "title": "Avengers Next (2006 - 2007)",
+        "description": null,
+        "startYear": 2006,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5a85d46e5313e.jpg"
+    },
+    {
+        "id": 2241,
+        "title": "Avengers Next: Rebirth (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/4bc5bc63061fc.jpg"
+    },
+    {
+        "id": 26034,
+        "title": "Avengers No Road Home (2019)",
+        "description": null,
+        "startYear": 2019,
+        "endYear": 2019,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/5c649adfab99c.jpg"
+    },
+    {
+        "id": 19294,
+        "title": "Avengers Now! (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5526ee7b02bb2.jpg"
+    },
+    {
+        "id": 28385,
+        "title": "Avengers of the Wastelands (2020)",
+        "description": "A NEW STORY FROM THE WORLD OF OLD MAN LOGAN! In a world where most of the super heroes fell at the hands of the RED SKULL over fifty years ago, a new force rises in the Wastelands! DANI CAGE wields the mighty Mjolnir for the cause of peace, but when the brutal regime of DOCTOR DOOM forces DWIGHT (a.k.a. the owner of the surviving Ant-Man technology) to Dani and HULK in a last ditch effort to survive, the AVENGERS may ASSEMBLE once more! Spinning out of the saga begun in OLD MAN LOGAN, and following up OLD MAN QUILL and DEAD MAN LOGAN, this is the can\u2019t miss premiere of Ed Brisson and Jonas Scharf\u2019s magnum opus! ",
+        "startYear": 2020,
+        "endYear": 2020,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/b0/5e29bf76c6869.jpg"
+    },
+    {
+        "id": 20655,
+        "title": "Avengers Origins Presented by Adobe (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/556e2155f1eea.jpg"
+    },
+    {
+        "id": 9861,
+        "title": "Avengers Origins: Luke Cage (2013)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/564f62b118377.jpg"
+    },
+    {
+        "id": 9990,
+        "title": "Avengers Posterbook (2013)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4cb60ff3c58ac.jpg"
+    },
+    {
+        "id": 20654,
+        "title": "Avengers Presented by Western Union (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/5579e36710fa9.jpg"
+    },
+    {
+        "id": 9826,
+        "title": "Avengers Spotlight (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/4bfe98b83f735.jpg"
+    },
+    {
+        "id": 21064,
+        "title": "Avengers Standoff: Assault on Pleasant Hill Alpha (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/57cf2027dbcbe.jpg"
+    },
+    {
+        "id": 18341,
+        "title": "Avengers Undercover (2014)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2014,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/544802c442151.jpg"
+    },
+    {
+        "id": 27141,
+        "title": "Avengers Unplugged (1995 - 1996)",
+        "description": null,
+        "startYear": 1995,
+        "endYear": 1996,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/5c523178716c4.jpg"
+    },
+    {
+        "id": 158,
+        "title": "Avengers Vol. 1: World Trust (2003)",
+        "description": null,
+        "startYear": 2003,
+        "endYear": 2003,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb6a961e1d57.jpg"
+    },
+    {
+        "id": 227,
+        "title": "Avengers Vol. 2: Red Zone (2003)",
+        "description": null,
+        "startYear": 2003,
+        "endYear": 2003,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb6a48ebcf33.jpg"
+    },
+    {
+        "id": 307,
+        "title": "Avengers Vol. 3: The Search for She-Hulk (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bc6a27d51908.jpg"
+    },
+    {
+        "id": 1197,
+        "title": "Avengers Vol. 4: Lionheart of Avalon (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc665565e3fc.jpg"
+    },
+    {
+        "id": 1262,
+        "title": "Avengers Vol. 5: Once an Invader (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc662be921e3.jpg"
+    },
+    {
+        "id": 271,
+        "title": "Avengers Vol. II: Red Zone (2003)",
+        "description": null,
+        "startYear": 2003,
+        "endYear": 2003,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bb6a4c1c52ca.jpg"
+    },
+    {
+        "id": 22229,
+        "title": "Avengers VS (2016)",
+        "description": null,
+        "startYear": 2016,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/572265becf62e.jpg"
+    },
+    {
+        "id": 20060,
+        "title": "Avengers Vs (2015)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/553a6c3b7b311.jpg"
+    },
+    {
+        "id": 20938,
+        "title": "Avengers Vs Infinity (2015 - 2016)",
+        "description": null,
+        "startYear": 2015,
+        "endYear": 2016,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/57c45a3c9e897.jpg"
+    },
+    {
+        "id": 9181,
+        "title": "Avengers Vs. Atlas (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bac316f911e0.jpg"
+    },
+    {
+        "id": 13032,
+        "title": "Avengers Vs. Pet Avengers (2010 - 2011)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4c44b8b0bdc36.jpg"
+    },
+    {
+        "id": 15305,
+        "title": "Avengers Vs. X-Men (2012)",
+        "description": null,
+        "startYear": 2012,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/511bfd4021a75.jpg"
+    },
+    {
+        "id": 16321,
+        "title": "Avengers Vs. X-Men Program (2012)",
+        "description": null,
+        "startYear": 2012,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/03/544803271df43.jpg"
+    },
+    {
+        "id": 16510,
+        "title": "Avengers Vs. X-Men: Consequences (2012)",
+        "description": null,
+        "startYear": 2012,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/511bff2100bef.jpg"
+    },
+    {
+        "id": 16230,
+        "title": "Avengers Vs. X-Men: Versus (2011 - 2012)",
+        "description": null,
+        "startYear": 2011,
+        "endYear": 2012,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/5130f24eebeda.jpg"
+    },
+    {
+        "id": 3462,
+        "title": "AVENGERS WEST COAST: DARKER THAN SCARLET TPB (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51cb17ca65923.jpg"
+    },
+    {
+        "id": 1497,
+        "title": "Avengers West Coast: Vision Quest (2005)",
+        "description": null,
+        "startYear": 2005,
+        "endYear": 2005,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb692bec4b28.jpg"
+    },
+    {
+        "id": 18398,
+        "title": "Avengers World (2014 - 2015)",
+        "description": null,
+        "startYear": 2014,
+        "endYear": 2015,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/542eed5124307.jpg"
+    },
+    {
+        "id": 9927,
+        "title": "Avengers, Thor & Captain America: Official Index to the Marvel Universe (2010 - 2011)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2011,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/4bab8bad105c7.jpg"
+    },
+    {
+        "id": 2962,
+        "title": "AVENGERS/DEFENDERS WAR PREMIERE HC (2007)",
+        "description": null,
+        "startYear": 2007,
+        "endYear": 2007,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc395f047b32.jpg"
+    },
+    {
+        "id": 95,
+        "title": "AVENGERS/DEFENDERS WAR TPB (1999)",
+        "description": null,
+        "startYear": 1999,
+        "endYear": 1999,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/4bc66bc1bae0b.jpg"
+    },
+    {
+        "id": 9383,
+        "title": "Avengers/Invaders (2010)",
+        "description": null,
+        "startYear": 2010,
+        "endYear": 2010,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4beac5d3e59bc.jpg"
+    },
+    {
+        "id": 4864,
+        "title": "Avengers/Invaders (2008 - 2009)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2009,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/5a85e84bd5888.jpg"
+    },
+    {
+        "id": 4791,
+        "title": "Avengers/Invaders Alex Ross (2008)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2008,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4c36611dc5132.jpg"
+    },
+    {
+        "id": 6279,
+        "title": "Avengers/Invaders by Alex Ross Poster (2008 - Present)",
+        "description": null,
+        "startYear": 2008,
+        "endYear": 2099,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bb64cbd32f35.jpg"
+    },
+    {
+        "id": 17966,
+        "title": "AVENGERS/IRON MAN: FIRST SIGN TPB (2013)",
+        "description": null,
+        "startYear": 2013,
+        "endYear": 2013,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/5a85e6b761686.jpg"
+    },
+    {
+        "id": 715,
+        "title": "Avengers/Thunderbolts (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4bc69acbebc6b.jpg"
+    },
+    {
+        "id": 1230,
+        "title": "AVENGERS/THUNDERBOLTS VOL. 2: BEST INTENTIONS TPB (2004)",
+        "description": null,
+        "startYear": 2004,
+        "endYear": 2004,
+        "thumbnail": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc662d68deb2.jpg"
+    }
+]

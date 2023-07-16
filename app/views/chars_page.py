@@ -2,7 +2,7 @@ import random
 import streamlit as st
 
 from app.dataset import heroes
-
+from app.constants import ATTRIBUTION as attribution
 
 def view(items, total):
     count = len(items)
@@ -29,6 +29,7 @@ def view(items, total):
             print(e)
 
         st.divider()
+    st.write(attribution)
 
 
 def show():

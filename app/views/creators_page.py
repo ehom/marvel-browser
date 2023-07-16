@@ -2,7 +2,7 @@ import random
 import json
 import streamlit as st
 from app.dataset import creators
-
+from app.constants import ATTRIBUTION as attribution
 from pprint import PrettyPrinter
 pp = PrettyPrinter(indent=4, width=80)
 
@@ -31,7 +31,7 @@ def view(items, total):
             print(e)
 
         st.divider()
-
+    st.write(attribution)
 
 def show():
     items = creators.load()

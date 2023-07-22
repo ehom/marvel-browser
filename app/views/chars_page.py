@@ -7,8 +7,8 @@ from app.utils.formatters import formatNumber
 
 def view(items, total):
     count = len(items)
-    total = formatNumber(total)
-    title = f"Marvel Characters ({total})"
+    formatted = formatNumber(total)
+    title = f"Marvel Characters ({formatted})"
     print(title)
 
     st.title(title)

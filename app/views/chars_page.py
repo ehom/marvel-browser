@@ -22,9 +22,9 @@ def view(items, total):
             for n in range(0, COLS):
                 char = items[i+n]
                 with columns[n]:
-                    st.write(char['name'])
-                    st.image(char['thumbnail'], width=150)
                     st.write(char['id'])
+                    st.image(char['thumbnail'], width=150)
+                    st.write(char['name'])
         except Exception as e:
             print(e)
 

@@ -24,9 +24,9 @@ def view(items, total):
             for n in range(0, COLS):
                 item = items[i+n]
                 with columns[n]:
-                    st.write(item['fullName']) 
-                    st.image(item['thumbnail'], width=150)
                     st.write(item['id'])
+                    st.image(item['thumbnail'], width=150)
+                    st.write(item['fullName']) 
         except Exception as e:
             print(e)
 

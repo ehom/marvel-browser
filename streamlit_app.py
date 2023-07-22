@@ -3,6 +3,7 @@ import streamlit as st
 from app.views import series_page
 from app.views import creators_page
 from app.views import chars_page
+from app.views import comics_page
 
 
 menu_items = {
@@ -20,12 +21,14 @@ def main():
 
     with st.sidebar:
         st.header("Marvel Browser")
-        selection = st.radio("View", ["Characters", "Series", "Creators"])
+        selection = st.radio("View", ["Comics", "Characters", "Creators", "Series"])
 
     if selection == "Series":
         series_page.show()
     elif selection == "Creators":
         creators_page.show()
+    elif selection == "Comics":
+       comics_page.show()
     else:
         chars_page.show()
 

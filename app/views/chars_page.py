@@ -3,9 +3,11 @@ import streamlit as st
 
 from app.dataset import heroes
 from app.constants import ATTRIBUTION as attribution
+from app.utils.formatters import formatNumber
 
 def view(items, total):
     count = len(items)
+    total = formatNumber(total)
     title = f"Marvel Characters ({total})"
     print(title)
 

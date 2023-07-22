@@ -30,9 +30,9 @@ def view(items, total):
     st.divider()
 
     for item in items:
-        st.write(item['title'])
-        st.image(item['thumbnail'], width=150)
         st.write(item['id'])
+        st.image(item['thumbnail'], width=150)
+        st.write(item['title'])
         if item['description']:
             st.write("**Description**:")
             st.write(item['description'])
